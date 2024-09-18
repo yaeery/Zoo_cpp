@@ -1,0 +1,30 @@
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.AssemblyReference.cache
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.MainForm.resources
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.GenerateResource.cache
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.DaysForm.resources
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.SoloEx.resources
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComEx.resources
+C:\Users\kondr\source\repos\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComFormCh.resources
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.AssemblyReference.cache
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComEx.resources
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComFormCh.resources
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.DaysForm.resources
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.MainForm.resources
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.SoloEx.resources
+C:\Users\Человек\OneDrive\Рабочий стол\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.GenerateResource.cache
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.AssemblyReference.cache
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComEx.resources
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComFormCh.resources
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.DaysForm.resources
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.MainForm.resources
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.SoloEx.resources
+C:\Users\matiq\Desktop\Kurs_Zoo\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.GenerateResource.cache
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.AssemblyReference.cache
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComEx.resources
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.ComFormCh.resources
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.DaysForm.resources
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.MainForm.resources
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.SoloEx.resources
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\Kurs_Zoo.vcxproj.GenerateResource.cache
+D:\Кодинг\Kurs_Zoo\Kurs_Zoo\x64\Debug\KursZoo.MemLeacksForm.resources

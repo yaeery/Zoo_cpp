@@ -1,0 +1,4 @@
+﻿  Conv.cpp
+  ComEx.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека ..\bin\Kurs_Zoo.lib и объект ..\bin\Kurs_Zoo.exp
+  Kurs_Zoo.vcxproj -> D:\Кодинг\Kurs_Zoo\bin\Kurs_Zoo.exe

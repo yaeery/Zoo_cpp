@@ -1,0 +1,646 @@
+﻿  pch.cpp
+  Alcyone.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(5,9): warning C4251: Alcyone::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(6,9): warning C4251: Alcyone::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(7,9): warning C4251: Alcyone::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(8,19): warning C4251: Alcyone::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Alcyone.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Animals.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Animals.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Animals.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Animals.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Animals.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  DB.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(5,9): warning C4251: Rhinoceros::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(6,9): warning C4251: Rhinoceros::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(7,9): warning C4251: Rhinoceros::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(8,19): warning C4251: Rhinoceros::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(5,9): warning C4251: Elephant::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(6,9): warning C4251: Elephant::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(7,9): warning C4251: Elephant::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(8,19): warning C4251: Elephant::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(5,9): warning C4251: Triton::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(6,9): warning C4251: Triton::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(7,9): warning C4251: Triton::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(8,19): warning C4251: Triton::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(5,9): warning C4251: Python::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(6,9): warning C4251: Python::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(7,9): warning C4251: Python::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(8,19): warning C4251: Python::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(5,9): warning C4251: Penguin::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(6,9): warning C4251: Penguin::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(7,9): warning C4251: Penguin::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(8,19): warning C4251: Penguin::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(5,9): warning C4251: Alcyone::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(6,9): warning C4251: Alcyone::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(7,9): warning C4251: Alcyone::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(8,19): warning C4251: Alcyone::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(5,9): warning C4251: Moray::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(6,9): warning C4251: Moray::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(7,9): warning C4251: Moray::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(8,19): warning C4251: Moray::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Dll.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(12,1): warning C4005: DLL_API: изменение макроопределения
+  (компиляция исходного файла "/Dll.cpp")
+  D:\Кодинг\Kurs_Zoo\Dll\Dll.h(3,1):
+  см. предыдущее определение "DLL_API"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(5,9): warning C4251: Rhinoceros::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(6,9): warning C4251: Rhinoceros::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(7,9): warning C4251: Rhinoceros::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(8,19): warning C4251: Rhinoceros::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(5,9): warning C4251: Elephant::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(6,9): warning C4251: Elephant::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(7,9): warning C4251: Elephant::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(8,19): warning C4251: Elephant::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(5,9): warning C4251: Triton::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(6,9): warning C4251: Triton::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(7,9): warning C4251: Triton::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(8,19): warning C4251: Triton::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(5,9): warning C4251: Python::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(6,9): warning C4251: Python::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(7,9): warning C4251: Python::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(8,19): warning C4251: Python::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(5,9): warning C4251: Penguin::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(6,9): warning C4251: Penguin::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(7,9): warning C4251: Penguin::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(8,19): warning C4251: Penguin::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(5,9): warning C4251: Alcyone::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(6,9): warning C4251: Alcyone::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(7,9): warning C4251: Alcyone::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Alcyone.h(8,19): warning C4251: Alcyone::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Alcyone"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(5,9): warning C4251: Moray::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(6,9): warning C4251: Moray::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(7,9): warning C4251: Moray::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(8,19): warning C4251: Moray::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Dll.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Dll.cpp(33,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/Dll.cpp")
+  
+D:\Кодинг\Kurs_Zoo\Dll\Dll.cpp(144,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/Dll.cpp")
+  
+  dllmain.cpp
+  Elephant.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(5,9): warning C4251: Elephant::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(6,9): warning C4251: Elephant::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(7,9): warning C4251: Elephant::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Elephant.h(8,19): warning C4251: Elephant::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Elephant"
+  (компиляция исходного файла "/Elephant.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Moray.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(5,9): warning C4251: Moray::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(6,9): warning C4251: Moray::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(7,9): warning C4251: Moray::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Moray.h(8,19): warning C4251: Moray::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Moray"
+  (компиляция исходного файла "/Moray.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Penguin.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(5,9): warning C4251: Penguin::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(6,9): warning C4251: Penguin::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(7,9): warning C4251: Penguin::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Penguin.h(8,19): warning C4251: Penguin::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Penguin"
+  (компиляция исходного файла "/Penguin.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Python.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(5,9): warning C4251: Python::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(6,9): warning C4251: Python::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(7,9): warning C4251: Python::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Python.h(8,19): warning C4251: Python::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Python"
+  (компиляция исходного файла "/Python.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Rhinoceros.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(5,9): warning C4251: Rhinoceros::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(6,9): warning C4251: Rhinoceros::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(7,9): warning C4251: Rhinoceros::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Rhinoceros.h(8,19): warning C4251: Rhinoceros::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Rhinoceros"
+  (компиляция исходного файла "/Rhinoceros.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Triton.cpp
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(15,9): warning C4251: Animals::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(16,9): warning C4251: Animals::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(17,9): warning C4251: Animals::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Animals.h(18,19): warning C4251: Animals::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Animals"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(5,9): warning C4251: Triton::Name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(6,9): warning C4251: Triton::Volier: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(7,9): warning C4251: Triton::Class: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+D:\Кодинг\Kurs_Zoo\Dll\Triton.h(8,19): warning C4251: Triton::Days: class "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>" должен иметь dll-интерфейс для использования клиентами class "Triton"
+  (компиляция исходного файла "/Triton.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\map(72,7):
+   см. объявление "std::map<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>>"
+  
+  Создание кода...
+     Создается библиотека ..\bin\Dll.lib и объект ..\bin\Dll.exp
+  Dll.vcxproj -> D:\Кодинг\Kurs_Zoo\bin\Dll.dll
